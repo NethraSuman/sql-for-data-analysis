@@ -1,3 +1,4 @@
 # Hi there!
-This is just a practise work of various SQL statements
-###### SQL Learning Session | PostgreSQL | PgAdmin
+This exercise is designed to provide hands-on practice with a variety of SQL statements.
+It will allow me to solidify my understanding of data manipulation and retrieval techniques within a database environment
+###### Learning Session | SQL | PostgreSQL | PgAdmin
